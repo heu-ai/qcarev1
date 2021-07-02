@@ -106,10 +106,10 @@
 .expert-space-02{margin:0px;margin-bottom:20px;}
 .expert-space-03{margin:0px;margin-bottom:20px;}
 .expert-space-04{margin:0px;margin-bottom:20px;}
- .banner-btn { padding: 15px 18px;}
+ .banner-btn { padding: 15px 18px;margin-bottom: 40px;}
 .area-expertise-section p{margin:0px; margin-bottom:20px;}
-
-.side-bg {padding:0px;padding-left: 15px; }
+.about-facts h2{padding-left: 20px;text-align:left;  }
+.side-bg {padding:0px;padding-left: 15px;}
 .banner-btn a { width: 100%;text-align: center;}
 .banner-btn a {margin-bottom: 20px;} 
 
@@ -147,10 +147,10 @@ line-height: 36px;}
 }
 .about-facts {
     background: #153f74;
-    padding: 40px 0px;
+    padding: 20px 0px;
 border-left: none;}
 .area-works-section { background:none;}
-
+.box-top-area { box-shadow:none;}
 }
 
 @media (max-width: 540px) {
