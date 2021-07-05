@@ -121,7 +121,7 @@
 .area-mark {padding: 0rem 2rem;}  
 .works-area { width: 100%;}
 .handle-section p { padding: 0px 15px;}
-.about-facts-section h2 { margin-left: -25px;}
+.about-facts-section h2 { margin-left: 10px;text-align: left;}
 .what-profile  {padding: 0px 10px;}
 .cross-area ul li {
     background: url(../images/cross-01.png)no-repeat top left;
